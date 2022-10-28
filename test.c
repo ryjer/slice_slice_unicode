@@ -1,4 +1,4 @@
-#include "slice_slice_unicode.h"
+#include "切片_unicode切片.h"
 #include <stdio.h>
 
 // gcc -g -Wall test.c slice_slice_unicode.c ../slice_unicode/slice_unicode.c ../utf8_unicode/utf8_unicode.c && ./a.out

@@ -1,8 +1,10 @@
-#ifndef SLICE_SLICE_UNICODE_H
-#define SLICE_SLICE_UNICODE_H
+#ifndef 切片_UNICODE切片_H
+#define 切片_UNICODE切片_H
 
-    #include "../slice_unicode/slice_unicode.h"
+    #include "../unicode切片/unicode切片.h"
     #include <stdint.h>
+    #include <stdlib.h>
+    #include <stdio.h>
 
     // unicode切片结构体，支持最多6,5536个字符，参考go切片、rust切片等切片设计
     typedef struct {
