@@ -1,7 +1,7 @@
 #include "切片_unicode切片.h"
 #include <stdio.h>
 
-// gcc -g -Wall test.c slice_slice_unicode.c ../slice_unicode/slice_unicode.c ../utf8_unicode/utf8_unicode.c && ./a.out
+// gcc -g -Wall test.c 切片_unicode切片.c ../unicode切片/unicode切片.c ../utf8_unicode/utf8_unicode.c && ./a.out
 // 测试用例
 int main() {
     unicode切片动态数组 切片数组;

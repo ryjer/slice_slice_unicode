@@ -15,7 +15,7 @@
     
     // 提供以下操作函数
 
-    unicode切片动态数组 * 创建unicode切片动态数组(int 初始容量);
+    unicode切片动态数组 创建unicode切片动态数组(int 初始容量);
     void unicode切片动态数组_初始化(unicode切片动态数组 * 数组指针, int 初始容量); //√已测试
     void unicode切片动态数组_清空(unicode切片动态数组 * 数组指针); //√已测试
     void unicode切片动态数组_重置(unicode切片动态数组 * 数组指针); //√已测试
