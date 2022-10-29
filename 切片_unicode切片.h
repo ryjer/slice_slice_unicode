@@ -25,5 +25,5 @@
     void unicode切片动态数组_文件序列化打印(unicode切片动态数组 数组, FILE * 输出文件); //√已测试
     // 以下为纯函数
 
-    int unicode切片动态数组_遍历搜索(unicode切片动态数组 *被搜索数组, unicode切片 目标切片); //√已测试
+    int unicode切片动态数组_遍历搜索(unicode切片动态数组 被搜索切片数组, unicode切片 目标切片); //√已测试
 #endif
