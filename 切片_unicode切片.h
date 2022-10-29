@@ -21,8 +21,8 @@
     void unicode切片动态数组_重置(unicode切片动态数组 * 数组指针); //√已测试
     void unicode切片动态数组_扩容(unicode切片动态数组 * 数组指针, int 期望容量); //√已测试
     void unicode切片动态数组_追加(unicode切片动态数组 * 数组指针, unicode切片 待追加切片); //√已测试
-    void unicode切片动态数组_文件打印(unicode切片动态数组 * 数组指针, FILE * 输出文件); //√已测试
-    void unicode切片动态数组_文件序列化打印(unicode切片动态数组 * 数组指针, FILE * 输出文件); //√已测试
+    void unicode切片动态数组_文件打印(unicode切片动态数组 数组, FILE * 输出文件); //√已测试
+    void unicode切片动态数组_文件序列化打印(unicode切片动态数组 数组, FILE * 输出文件); //√已测试
     // 以下为纯函数
 
     int unicode切片动态数组_遍历搜索(unicode切片动态数组 *被搜索数组, unicode切片 目标切片); //√已测试
